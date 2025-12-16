@@ -131,16 +131,3 @@ Duration: 3 minutes | Released: December 13, 2025
 - Dark Background: `#0f0f0f`
 - Light Text: `#f9f7f7`
 
-## 📄 License
-
-This project is created for educational purposes as part of a web development course.
-
-## 🤝 Contributing
-
-This is a student project, but feedback and suggestions are welcome!
-
----
-
-**Course Project**: Basic HTML and CSS Website Development
-**Institution**: [Your Institution Name]
-**Date**: December 2025
